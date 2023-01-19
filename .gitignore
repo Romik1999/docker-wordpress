@@ -23,7 +23,6 @@
 # -----------------------------------------------------------------
 
 # ignore everything in the root except the "wp-content" directory.
-/*
 !wp-content/
 
 # ignore everything in the "wp-content" directory, except:
@@ -104,3 +103,6 @@ Thumbs.db
 !wp-content/mu-plugins/example-mu-plugin/
 !wp-content/plugins/example-plugin/
 !wp-content/themes/example-theme/
+
+mysql
+www
